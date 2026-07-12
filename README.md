@@ -15,7 +15,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🚀 About Me
 
-Hi, I'm **[YOUR NAME]** — a passionate **[YOUR ROLE]** with **[X] years** of experience building things for the web. I love turning ideas into clean, functional products, and I'm always exploring new tools and technologies. 💡
+Hi, I'm **[D RAVI TEJA]** — a passionate **[..]** with **[4] years** of experience building things for the web. I love turning ideas into clean, functional products, and I'm always exploring new tools and technologies. 💡
 
 Beyond code, I create content to help others learn:
 - 🎥 I make videos on **YouTube** breaking down [topics you cover]
