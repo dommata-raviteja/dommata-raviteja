@@ -1,6 +1,6 @@
 <!-- SECTION H (TOP): VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dommataraviteja06-lan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=dommata-raviteja&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
 <!-- SECTION A: ANIMATED HEADER -->
@@ -69,7 +69,7 @@ I am passionate about **Full Stack Development, Artificial Intelligence, Cyber S
 
 <p align="center">
 
-<a href="https://github.com/dommataraviteja06-lan">
+<a href="https://github.com/dommata-raviteja">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -88,13 +88,13 @@ I am passionate about **Full Stack Development, Artificial Intelligence, Cyber S
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dommataraviteja06-lan&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dommata-raviteja&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dommataraviteja06-lan&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dommata-raviteja&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dommataraviteja06-lan&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=dommata-raviteja&theme=tokyonight"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ I am passionate about **Full Stack Development, Artificial Intelligence, Cyber S
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dommataraviteja06-lan&theme=darkhub&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dommata-raviteja&theme=darkhub&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ I am passionate about **Full Stack Development, Artificial Intelligence, Cyber S
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dommataraviteja06-lan&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dommata-raviteja&theme=tokyo-night"/>
 </p>
 
 ---
